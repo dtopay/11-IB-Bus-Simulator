@@ -16,7 +16,14 @@ A 3D browser racing game about an invented motor sport: the **School Bus Race**.
 1. Press **Start engines**, choose one of the 7 drivers, then one of the 6 buses.
 2. Drive through the yellow bus stops to pick up students. Every stop fills one third of your **super power** bar.
 3. When the bar is full (3 stops), press **Shift** to use your driver's super power.
-4. Finish first at Anka Bilim School. Races are 1, 3 or 6 laps against Easy, Normal or Hard rivals.
+4. Finish first at Anka Bilim School. Races are 3, 6 or 10 laps against Easy, Normal or Hard rivals. Even Normal rivals are tough, and on Hard their buses are faster than yours.
+
+## Tyres and pit stops
+
+- Tyres wear out as you race: about a fifth of a set per lap, more if you drift, brake hard, hit walls or leave the road. Worn tyres grip less.
+- The **TYRES** gauge turns yellow, then red. Below 12 % a tyre can burst at any moment, and at 0 % it always does. A burst tyre means sparks, a flat wheel, half speed and a bus that pulls to one side.
+- The pit lane is on the **left, right after the car park**. Follow the PIT LANE sign, keep to the 80 km/h limiter, and stop in the box with your bus number. The crew changes all four tyres in 2.6 seconds.
+- The rivals follow the same rules. Expect one stop in a 6-lap race and two in a 10-lap race.
 
 | Key | Action |
 |---|---|
