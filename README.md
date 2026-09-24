@@ -13,7 +13,7 @@ A 3D browser racing game about an invented motor sport: the **School Bus Race**.
 
 ## How to play
 
-1. Press **Start engines**, choose one of the 7 drivers, then one of the 6 buses.
+1. Press **Start engines**, choose one of the 8 drivers, then one of the 6 buses.
 2. Drive through the yellow bus stops to pick up students. Every stop fills one third of your **super power** bar.
 3. When the bar is full (3 stops), press **Shift** to use your driver's super power.
 4. Finish first at Anka Bilim School. Races are 3, 6 or 10 laps against Easy, Normal or Hard rivals. Even Normal rivals are tough, and on Hard their buses are faster than yours.
@@ -51,6 +51,7 @@ On phones and tablets, on-screen buttons appear. A game controller works too.
 | FizikCan (Doruk Can Topay) | Math break: an easy question every 15 seconds | Physics overload: terms fly everywhere, the screen shakes, 3× speed |
 | YulafSütlüIceLatte (İrem Gökce) | None | Iced oat latte, 3× speed |
 | CinnamonRoll (Ela Üstündağ) | None | Scream: every bus nearby is stunned for 3 seconds |
+| RomanceHunter (Ada Yeşil) | Love hearts: every 10 seconds hearts appear around the bus, and rivals that touch one are stunned | LOVEBUS: a pink bus that spins and dances down the track at 2.5× speed to a sax love song |
 
 ## Buses
 
